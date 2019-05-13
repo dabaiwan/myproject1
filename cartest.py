@@ -1,5 +1,5 @@
 from Car import Car
 
-x = Car(60)
+x = Car(40)
 
 x.say_state()
